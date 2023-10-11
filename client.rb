@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby -w
 # -*- coding: utf-8 -*-
 require "socket"
-require 'colorize'
+require_relative 'colorize'
 
 ###############################################################################
 # the Client Class
